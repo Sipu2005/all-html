@@ -1,0 +1,31 @@
+/*/ BODY COLOR /*/
+body{
+    background-color: rgba(82, 111, 242, 0.734);
+}
+
+
+/*/ELEMENT SELECTOR /*/
+/* h2{
+    color: rgb(204, 29, 29);
+} */
+
+
+/*/ GROUP SELECTOR /*/
+/* h1,h2{
+   background-color: rgb(11, 219, 185, 0.5);
+} */
+
+
+/*/ ID SELECTOR /*/
+/* #cite{
+    color: aqua;
+} */
+
+
+/*/ CLASS SELECTOR /*/
+.green{
+color: green;
+}
+.blue{
+    color: blue;
+}
